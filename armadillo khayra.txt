@@ -1,0 +1,35 @@
+<html>
+<head>
+<style>
+body {
+  background-color: OldLace;
+}
+</style>
+<title> Fakta Tentang Armadillo </title> 
+</head>
+<body>
+<h1> Fakta Tentang Armadillo </h1>
+<p>..........................................................................................................................................................................................................................................................................................................</p>
+<h2 style="color:LightSkyBlue;"> Apa itu Armadillo? </h2>
+<h2> Armadillo ialah perkataan Sepanyol yang bermaksud "yang berperisai kecil" dan merujuk kepada plat tulang yang menutupi bahagian belakang, kepala, kaki, dan ekor. </h2>
+<h2> Armadillo adalah satu-satunya mamalia hidup yang memakai cengkerang sedemikian.</h2>
+<h2> Berkait rapat dengan tenggiling dan sloth, armadillo biasanya mempunyai muncung runcing dan mata kecil.</h2>
+<h2> Ia berbeza-beza dari segi warna, daripada armadillo dongeng merah jambu, berwarna merah jambu berwarna salmon, coklat gelap, hitam, merah, kelabu atau kekuningan. <h/2>
+<h2> armadillo ada yang 6 inchi. aramdillo juga boleh sebesar armadillo raksasa sepanjang 5 kaki. </h2>
+<p>..........................................................................................................................................................................................................................................................................................................</p>
+<h1 style="SlateBlue;"> Apa yang terjadi pada spesis ini? </h1>
+ Armadillo gergasi disenaraikan sebagai 'Terdedah kepada Kepupusan' oleh IUCN, jarang berlaku di seluruh rangkaiannya, dan pernah mengalami kepupusan tempatan di Uruguay. Pemusnahan habitat, keracunan, dan pemburuan menimbulkan ancaman besar kepada populasi yang tinggal. </h2>
+<h2> pemburuan haram dan pemerdagangan telah menyebabkan Armadillo China terancam kritikal. <h/2> 
+<h2> Di beberapa bahagian Asia, termasuk China dan Vietnam, daging armadillo dianggap sebagai makanan istimewa dan sisiknya digunakan dalam perubatan tradisional, walaupun tiada bukti bahawa sisik itu menyembuhkan apa-apa.</h2>
+<h2> Kesemua empat spesies tenggiling Asia terancam atau sangat terancam, jadi pemburu haram menumpukan perhatian mereka pada empat spesies Afrika untuk memenuhi permintaan. Kesemua spesies tersebut disenaraikan sebagai terdedah. </h2>
+<p>..........................................................................................................................................................................................................................................................................................................</p>
+<h1 style="PaleVioletRed;"> Bagaimana kita boleh bantu? </h1>
+<h1 style="color:violet;"> Langkah 1. Memelihara dan Memulihara Habitat Haiwan Liar, </h1>
+<h2> Pencegahan kepupusan haiwn liar boleh dilaksanakan dengan memelihara dan memulihara habitat haiwan liar. habitat semulajadi haiwan liar telah berkurangan dengan pesat akibat daripada pembangunan manusia dan pemusnahan hutan. oleh itu, kita perlu
+ melindungi dan memelihara kawasan-kawasan yang menjadi habitat bagi haiwan liar. langkah ini boleh dilakukan melalui penubuhan kawasn perlindungan seperti taman nasional dan hutan simpan. </h2>
+<h2 style="color:MediumPurple;"> Langkah 2. Menguatkuasakan undang-undang </h2>
+<h2> pihak berkuasa bertanggungjawab untuk menguatkuasakan undang-undang berkaitan dengan pemuliharaan haiwan liar. akta pemuliharaan hidupan liar 2010 menyatakan bahawa sesiapa yang didapati bersalah memburu, memiliki atau membunuh haiwan terpelihara mereka boleh dikenakan 
+denda dan dipenjarakan jika diasabit kesalahan. undang-undang perlindungan haiwan liar perlu dikuatkuasakan dengan tegas. </h2>
+<p>...........................................................................................................................................................................................................................................................................................................</p>
+</body> 
+</html>
